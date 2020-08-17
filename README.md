@@ -1,10 +1,8 @@
 
   # Readme-Generator 
-    
-    View project image in the demo folder
   
   ## Description
-    Generates a readme file through command line
+    Generates a readme file
 
   ## Table of Contents
   - [Installation](#installation)
@@ -18,7 +16,7 @@
   Packages required to run this program are: inquirer
   
   ## Usage
-  Examples of how to use this program: Helps create readme file for projects
+  Examples of how to use this program: It helps generate a read me file
 
   ## License
   MIT
@@ -31,9 +29,9 @@
 
   ## Contact
   
-![Badge](https://img.shields.io/badge/Github-Jennifer-4cbbb9) 
+![Badge](https://img.shields.io/badge/Github-Jenniferveiga-4cbbb9) 
   
-![Profile Image](https://github.com/Jennifer.png?size=50)
+![Profile Image](https://github.com/Jenniferveiga.png?size=50)
   
 View the project in GitHub at: https://github.com/Jenniferveiga/Homework9
   
