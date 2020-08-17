@@ -1,6 +1,8 @@
 
   # Readme-Generator 
   
+ Please view the demo folder for demo image. 
+ 
   ## Description
     Generates a readme file
 
